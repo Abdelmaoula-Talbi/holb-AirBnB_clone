@@ -4,9 +4,7 @@ header {
 	width: 100%;
 	border-bottom: 1px solid #CCCCCC;
 }
-header span.icon {
-	background-image: url("../images/logo.png");
-	background-repeat: no-repeat;
+header span.logo {
 	margin-left: 20px;
 	height: 100%;
 }
